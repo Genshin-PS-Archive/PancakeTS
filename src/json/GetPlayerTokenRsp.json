@@ -1,0 +1,15 @@
+{
+    "uid": 1337,
+    "token": "1",
+    "accountType": 1,
+    "accountUid": "109058282",
+    "isProficientPlayer": true,
+    "secretKeySeed": "2",
+    "securityCmdBuffer": "6UveeAn/YYPMy/aoHclHwH8OKpkm1/kAFxyXQ+hSiqw=",
+    "platformType": 3,
+    "channelId": 1,
+    "countryCode": "CN",
+    "clientVersionRandomKey": "202-0b393bc59ff7",
+    "regPlatform": 3,
+    "clientIpStr": "0.0.0.0"
+}

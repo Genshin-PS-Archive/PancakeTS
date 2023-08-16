@@ -1,0 +1,20 @@
+{
+    "playerInfoList": [
+        {
+            "uid": 1337,
+            "nickname": "PancakeTS",
+            "playerLevel": 60,
+            "mpSettingType": "MP_SETTING_ENTER_AFTER_APPLY",
+            "curPlayerNumInWorld": 1,
+            "worldLevel": 8,
+            "nameCardId": 210046,
+            "signature": "Pancake private server",
+            "profilePicture": {
+                "avatarId": 10000052
+            }
+        }
+    ],
+    "playerUidList": [
+        1337
+    ]
+}

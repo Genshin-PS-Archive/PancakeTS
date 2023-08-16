@@ -1,0 +1,7046 @@
+{
+    "storeType": "STORE_PACK",
+    "itemList": [
+        {
+            "itemId": 100016,
+            "guid": "2664326143951241225",
+            "material": {
+                "count": 197
+            }
+        },
+        {
+            "itemId": 100051,
+            "guid": "2664326143951241229",
+            "material": {
+                "count": 584
+            }
+        },
+        {
+            "itemId": 112005,
+            "guid": "2664326143951241294",
+            "material": {
+                "count": 1346
+            }
+        },
+        {
+            "itemId": 100018,
+            "guid": "2664326143951241320",
+            "material": {
+                "count": 200
+            }
+        },
+        {
+            "itemId": 100012,
+            "guid": "2664326143951241359",
+            "material": {
+                "count": 325
+            }
+        },
+        {
+            "itemId": 100056,
+            "guid": "2664326143951241367",
+            "material": {
+                "count": 94
+            }
+        },
+        {
+            "itemId": 100015,
+            "guid": "2664326143951241381",
+            "material": {
+                "count": 80
+            }
+        },
+        {
+            "itemId": 100013,
+            "guid": "2664326143951241412",
+            "material": {
+                "count": 79
+            }
+        },
+        {
+            "itemId": 100020,
+            "guid": "2664326143951241414",
+            "material": {
+                "count": 321
+            }
+        },
+        {
+            "itemId": 108002,
+            "guid": "2664326143951241475",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 100024,
+            "guid": "2664326143951241477",
+            "material": {
+                "count": 194
+            }
+        },
+        {
+            "itemId": 112011,
+            "guid": "2664326143951241609",
+            "material": {
+                "count": 702
+            }
+        },
+        {
+            "itemId": 112008,
+            "guid": "2664326143951241650",
+            "material": {
+                "count": 877
+            }
+        },
+        {
+            "itemId": 112038,
+            "guid": "2664326143951241732",
+            "material": {
+                "count": 622
+            }
+        },
+        {
+            "itemId": 100054,
+            "guid": "2664326143951241737",
+            "material": {
+                "count": 79
+            }
+        },
+        {
+            "itemId": 100082,
+            "guid": "2664326143951241738",
+            "material": {
+                "count": 33
+            }
+        },
+        {
+            "itemId": 100053,
+            "guid": "2664326143951241867",
+            "material": {
+                "count": 205
+            }
+        },
+        {
+            "itemId": 118002,
+            "guid": "2664326143951242092",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100224,
+            "guid": "2664326143951242220",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100236,
+            "guid": "2664326143951242628",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100052,
+            "guid": "2664326143951242930",
+            "material": {
+                "count": 98
+            }
+        },
+        {
+            "itemId": 112014,
+            "guid": "2664326143951243023",
+            "material": {
+                "count": 1033
+            }
+        },
+        {
+            "itemId": 104310,
+            "guid": "2664326143951243108",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 15402,
+            "guid": "2664326143951243214",
+            "equip": {
+                "weapon": {
+                    "level": 50,
+                    "promoteLevel": 2,
+                    "affixMap": {
+                        "115402": 1
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104161,
+            "guid": "2664326143951243259",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 112023,
+            "guid": "2664326143951243719",
+            "material": {
+                "count": 554
+            }
+        },
+        {
+            "itemId": 100081,
+            "guid": "2664326143951244025",
+            "material": {
+                "count": 33
+            }
+        },
+        {
+            "itemId": 100026,
+            "guid": "2664326143951244033",
+            "material": {
+                "count": 32
+            }
+        },
+        {
+            "itemId": 104313,
+            "guid": "2664326143951244685",
+            "material": {
+                "count": 66
+            }
+        },
+        {
+            "itemId": 11406,
+            "guid": "2664326143951244698",
+            "equip": {
+                "weapon": {
+                    "level": 90,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "111406": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104316,
+            "guid": "2664326143951244903",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 110011,
+            "guid": "2664326143951245220",
+            "material": {
+                "count": 22
+            }
+        },
+        {
+            "itemId": 100011,
+            "guid": "2664326143951245400",
+            "material": {
+                "count": 270
+            }
+        },
+        {
+            "itemId": 100021,
+            "guid": "2664326143951245627",
+            "material": {
+                "count": 60
+            }
+        },
+        {
+            "itemId": 15405,
+            "guid": "2664326143951246184",
+            "equip": {
+                "weapon": {
+                    "level": 90,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "115405": 1
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100022,
+            "guid": "2664326143951246356",
+            "material": {
+                "count": 21
+            }
+        },
+        {
+            "itemId": 100181,
+            "guid": "2664326143951246811",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100409,
+            "guid": "2664326143951246812",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100032,
+            "guid": "2664326143951246846",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 113010,
+            "guid": "2664326143951247580",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 100072,
+            "guid": "2664326143951249002",
+            "material": {
+                "count": 43
+            }
+        },
+        {
+            "itemId": 100083,
+            "guid": "2664326143951249732",
+            "material": {
+                "count": 63
+            }
+        },
+        {
+            "itemId": 14402,
+            "guid": "2664326143951249905",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "114402": 2
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100222,
+            "guid": "2664326143951250188",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112026,
+            "guid": "2664326143951250411",
+            "material": {
+                "count": 628
+            }
+        },
+        {
+            "itemId": 15401,
+            "guid": "2664326143951250700",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "115401": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100584,
+            "guid": "2664326143951250701",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100214,
+            "guid": "2664326143951250821",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 222,
+            "guid": "2664326143951251237",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 100029,
+            "guid": "2664326143951252543",
+            "material": {
+                "count": 39
+            }
+        },
+        {
+            "itemId": 100225,
+            "guid": "2664326143951253066",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101104,
+            "guid": "2664326143951253323",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 104151,
+            "guid": "2664326143951253491",
+            "material": {
+                "count": 34
+            }
+        },
+        {
+            "itemId": 113001,
+            "guid": "2664326143951253492",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100031,
+            "guid": "2664326143951253961",
+            "material": {
+                "count": 128
+            }
+        },
+        {
+            "itemId": 100028,
+            "guid": "2664326143951254519",
+            "material": {
+                "count": 110
+            }
+        },
+        {
+            "itemId": 100034,
+            "guid": "2664326143951254721",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 100033,
+            "guid": "2664326143951255170",
+            "material": {
+                "count": 223
+            }
+        },
+        {
+            "itemId": 108102,
+            "guid": "2664326143951255523",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 113016,
+            "guid": "2664326143951256087",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 108149,
+            "guid": "2664326143951256379",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 11302,
+            "guid": "2664326143951256845",
+            "equip": {
+                "weapon": {
+                    "level": 90,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "111302": 4
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104314,
+            "guid": "2664326143951257839",
+            "material": {
+                "count": 61
+            }
+        },
+        {
+            "itemId": 108159,
+            "guid": "2664326143951257844",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 100002,
+            "guid": "2664326143951258068",
+            "material": {
+                "count": 172
+            }
+        },
+        {
+            "itemId": 100030,
+            "guid": "2664326143951258395",
+            "material": {
+                "count": 21
+            }
+        },
+        {
+            "itemId": 100430,
+            "guid": "2664326143951258411",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100088,
+            "guid": "2664326143951258687",
+            "material": {
+                "count": 157
+            }
+        },
+        {
+            "itemId": 100426,
+            "guid": "2664326143951258891",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 12406,
+            "guid": "2664326143951259998",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "112406": 1
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104201,
+            "guid": "2664326143951260194",
+            "material": {
+                "count": 22
+            }
+        },
+        {
+            "itemId": 108026,
+            "guid": "2664326143951261214",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 104317,
+            "guid": "2664326143951261885",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 100001,
+            "guid": "2664326143951262317",
+            "material": {
+                "count": 388
+            }
+        },
+        {
+            "itemId": 100564,
+            "guid": "2664326143951263544",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 220018,
+            "guid": "2664326143951264274",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 220020,
+            "guid": "2664326143951264279",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108030,
+            "guid": "2664326143951264280",
+            "material": {
+                "count": 23
+            }
+        },
+        {
+            "itemId": 100091,
+            "guid": "2664326143951265927",
+            "material": {
+                "count": 12
+            }
+        },
+        {
+            "itemId": 100025,
+            "guid": "2664326143951267662",
+            "material": {
+                "count": 152
+            }
+        },
+        {
+            "itemId": 108140,
+            "guid": "2664326143951268864",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100537,
+            "guid": "2664326143951270640",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100538,
+            "guid": "2664326143951270641",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112035,
+            "guid": "2664326143951270846",
+            "material": {
+                "count": 1593
+            }
+        },
+        {
+            "itemId": 101003,
+            "guid": "2664326143951273789",
+            "material": {
+                "count": 62
+            }
+        },
+        {
+            "itemId": 104171,
+            "guid": "2664326143951274474",
+            "material": {
+                "count": 110
+            }
+        },
+        {
+            "itemId": 112003,
+            "guid": "2664326143951277596",
+            "material": {
+                "count": 201
+            }
+        },
+        {
+            "itemId": 112009,
+            "guid": "2664326143951278167",
+            "material": {
+                "count": 247
+            }
+        },
+        {
+            "itemId": 100063,
+            "guid": "2664326143951278385",
+            "material": {
+                "count": 133
+            }
+        },
+        {
+            "itemId": 112015,
+            "guid": "2664326143951281147",
+            "material": {
+                "count": 238
+            }
+        },
+        {
+            "itemId": 112027,
+            "guid": "2664326143951282651",
+            "material": {
+                "count": 56
+            }
+        },
+        {
+            "itemId": 14403,
+            "guid": "2664326143951283847",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "114403": 1
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 108088,
+            "guid": "2664326143951284525",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 112024,
+            "guid": "2664326143951285445",
+            "material": {
+                "count": 30
+            }
+        },
+        {
+            "itemId": 13303,
+            "guid": "2664326143951285785",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "113303": 4
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 101101,
+            "guid": "2664326143951286659",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 108206,
+            "guid": "2664326143951287050",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 100645,
+            "guid": "2664326143951291253",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100692,
+            "guid": "2664326143951291321",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100693,
+            "guid": "2664326143951291342",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 14501,
+            "guid": "2664326143951291384",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "114501": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100093,
+            "guid": "2664326143951293950",
+            "material": {
+                "count": 38
+            }
+        },
+        {
+            "itemId": 220021,
+            "guid": "2664326143951294460",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100014,
+            "guid": "2664326143951294608",
+            "material": {
+                "count": 124
+            }
+        },
+        {
+            "itemId": 104103,
+            "guid": "2664326143951297575",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 100585,
+            "guid": "2664326143951300554",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100078,
+            "guid": "2664326143951302392",
+            "material": {
+                "count": 205
+            }
+        },
+        {
+            "itemId": 108063,
+            "guid": "2664326143951304257",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108124,
+            "guid": "2664326143951305574",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 108029,
+            "guid": "2664326143951305604",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 108129,
+            "guid": "2664326143951307166",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 108081,
+            "guid": "2664326143951307168",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108040,
+            "guid": "2664326143951307466",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 108230,
+            "guid": "2664326143951308997",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 108228,
+            "guid": "2664326143951309004",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108039,
+            "guid": "2664326143951310358",
+            "material": {
+                "count": 21
+            }
+        },
+        {
+            "itemId": 108121,
+            "guid": "2664326143951311017",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 15403,
+            "guid": "2664326143951313125",
+            "equip": {
+                "weapon": {
+                    "level": 40,
+                    "promoteLevel": 2,
+                    "affixMap": {
+                        "115403": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 108053,
+            "guid": "2664326143951314641",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 100404,
+            "guid": "2664326143951314800",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 15413,
+            "guid": "2664326143951315327",
+            "equip": {
+                "weapon": {
+                    "level": 18,
+                    "exp": 7675,
+                    "affixMap": {
+                        "115413": 3
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 112013,
+            "guid": "2664326143951316123",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 104319,
+            "guid": "2664326143951316218",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 110003,
+            "guid": "2664326143951317791",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 110010,
+            "guid": "2664326143951317793",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 108038,
+            "guid": "2664326143951322927",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100089,
+            "guid": "2664326143951322939",
+            "material": {
+                "count": 118
+            }
+        },
+        {
+            "itemId": 13409,
+            "guid": "2664326143951324379",
+            "equip": {
+                "weapon": {
+                    "level": 55,
+                    "exp": 50275,
+                    "promoteLevel": 3,
+                    "affixMap": {
+                        "113409": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 108003,
+            "guid": "2664326143951324478",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 90412,
+            "guid": "2664326143951325515",
+            "equip": {
+                "reliquary": {
+                    "level": 17,
+                    "mainPropId": 15011,
+                    "appendPropIdList": [
+                        401061,
+                        401051,
+                        401094,
+                        401231,
+                        401233,
+                        401232
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 110002,
+            "guid": "2664326143951329045",
+            "material": {
+                "count": 47
+            }
+        },
+        {
+            "itemId": 100075,
+            "guid": "2664326143951330293",
+            "material": {
+                "count": 29
+            }
+        },
+        {
+            "itemId": 112016,
+            "guid": "2664326143951330576",
+            "material": {
+                "count": 38
+            }
+        },
+        {
+            "itemId": 71513,
+            "guid": "2664326143951331819",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15008,
+                    "appendPropIdList": [
+                        501242,
+                        501231,
+                        501031,
+                        501064,
+                        501061,
+                        501031,
+                        501243,
+                        501234
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 71533,
+            "guid": "2664326143951332121",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501082,
+                        501021,
+                        501053,
+                        501232,
+                        501054,
+                        501053,
+                        501023,
+                        501023
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 100555,
+            "guid": "2664326143951333827",
+            "material": {
+                "count": 15208
+            }
+        },
+        {
+            "itemId": 104104,
+            "guid": "2664326143951334203",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 88543,
+            "guid": "2664326143951336725",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501222,
+                        501051,
+                        501204,
+                        501033,
+                        501223,
+                        501223,
+                        501203,
+                        501221
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 112004,
+            "guid": "2664326143951337494",
+            "material": {
+                "count": 27
+            }
+        },
+        {
+            "itemId": 112007,
+            "guid": "2664326143951340912",
+            "material": {
+                "count": 39
+            }
+        },
+        {
+            "itemId": 112040,
+            "guid": "2664326143951341106",
+            "material": {
+                "count": 32
+            }
+        },
+        {
+            "itemId": 100090,
+            "guid": "2664326143951342429",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 108082,
+            "guid": "2664326143951344687",
+            "material": {
+                "count": 17
+            }
+        },
+        {
+            "itemId": 108027,
+            "guid": "2664326143951344697",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 100017,
+            "guid": "2664326143951345962",
+            "material": {
+                "count": 774
+            }
+        },
+        {
+            "itemId": 108233,
+            "guid": "2664326143951345971",
+            "material": {
+                "count": 13
+            }
+        },
+        {
+            "itemId": 220025,
+            "guid": "2664326143951346004",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 220024,
+            "guid": "2664326143951346033",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100818,
+            "guid": "2664326143951346528",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 12411,
+            "guid": "2664326143951348946",
+            "equip": {
+                "weapon": {
+                    "level": 82,
+                    "exp": 104150,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "112411": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 113008,
+            "guid": "2664326143951352256",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 12303,
+            "guid": "2664326143951352610",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112303": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 104318,
+            "guid": "2664326143951354262",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 104312,
+            "guid": "2664326143951354263",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 104309,
+            "guid": "2664326143951354264",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 104315,
+            "guid": "2664326143951354265",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 111007,
+            "guid": "2664326143951354300",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 111008,
+            "guid": "2664326143951354301",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 111013,
+            "guid": "2664326143951354306",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 111015,
+            "guid": "2664326143951354307",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 112010,
+            "guid": "2664326143951354315",
+            "material": {
+                "count": 37
+            }
+        },
+        {
+            "itemId": 81513,
+            "guid": "2664326143951354599",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15004,
+                    "appendPropIdList": [
+                        501052,
+                        501082,
+                        501034,
+                        501232,
+                        501051,
+                        501234,
+                        501231,
+                        501052
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100405,
+            "guid": "2664326143951354685",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100688,
+            "guid": "2664326143951355982",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112025,
+            "guid": "2664326143951357334",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 100562,
+            "guid": "2664326143951357418",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100601,
+            "guid": "2664326143951357615",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113015,
+            "guid": "2664326143951362791",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 100618,
+            "guid": "2664326143951363518",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 112002,
+            "guid": "2664326143951366916",
+            "material": {
+                "count": 1213
+            }
+        },
+        {
+            "itemId": 90533,
+            "guid": "2664326143951367207",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501052,
+                        501031,
+                        501232,
+                        501204,
+                        501051,
+                        501051,
+                        501202,
+                        501201
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 90553,
+            "guid": "2664326143951368326",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501033,
+                        501223,
+                        501082,
+                        501051,
+                        501033,
+                        501034,
+                        501221,
+                        501053
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 11402,
+            "guid": "2664326143951372981",
+            "equip": {
+                "weapon": {
+                    "level": 50,
+                    "promoteLevel": 2,
+                    "affixMap": {
+                        "111402": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 11401,
+            "guid": "2664326143951373049",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "111401": 1
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 12305,
+            "guid": "2664326143951373091",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112305": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 112033,
+            "guid": "2664326143951375528",
+            "material": {
+                "count": 48
+            }
+        },
+        {
+            "itemId": 81523,
+            "guid": "2664326143951377150",
+            "equip": {
+                "reliquary": {
+                    "level": 17,
+                    "exp": 7560,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501083,
+                        501034,
+                        501224,
+                        501021,
+                        501024,
+                        501082,
+                        501223
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 90543,
+            "guid": "2664326143951380870",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501222,
+                        501081,
+                        501204,
+                        501032,
+                        501204,
+                        501032,
+                        501031,
+                        501221
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 90523,
+            "guid": "2664326143951381046",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501203,
+                        501031,
+                        501092,
+                        501223,
+                        501202,
+                        501222,
+                        501034,
+                        501202
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 11403,
+            "guid": "2664326143951381790",
+            "equip": {
+                "weapon": {
+                    "level": 86,
+                    "exp": 165800,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "111403": 2
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114016,
+            "guid": "2664326143951382332",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 108150,
+            "guid": "2664326143951384954",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 112012,
+            "guid": "2664326143951386838",
+            "material": {
+                "count": 75
+            }
+        },
+        {
+            "itemId": 100410,
+            "guid": "2664326143951388365",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108064,
+            "guid": "2664326143951388366",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 108085,
+            "guid": "2664326143951389711",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 80543,
+            "guid": "2664326143951390169",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501081,
+                        501223,
+                        501231,
+                        501202,
+                        501084,
+                        501081,
+                        501234,
+                        501221
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 220009,
+            "guid": "2664326143951390274",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112037,
+            "guid": "2664326143951390933",
+            "material": {
+                "count": 63
+            }
+        },
+        {
+            "itemId": 74533,
+            "guid": "2664326143951391256",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501063,
+                        501204,
+                        501054,
+                        501244,
+                        501062,
+                        501064,
+                        501201,
+                        501243
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 112032,
+            "guid": "2664326143951394814",
+            "material": {
+                "count": 602
+            }
+        },
+        {
+            "itemId": 112021,
+            "guid": "2664326143951395658",
+            "material": {
+                "count": 73
+            }
+        },
+        {
+            "itemId": 14302,
+            "guid": "2664326143951395730",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "114302": 4
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 112020,
+            "guid": "2664326143951395978",
+            "material": {
+                "count": 421
+            }
+        },
+        {
+            "itemId": 108163,
+            "guid": "2664326143951398537",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 113013,
+            "guid": "2664326143951399394",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 112022,
+            "guid": "2664326143951399575",
+            "material": {
+                "count": 17
+            }
+        },
+        {
+            "itemId": 108050,
+            "guid": "2664326143951403630",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112006,
+            "guid": "2664326143951404686",
+            "material": {
+                "count": 143
+            }
+        },
+        {
+            "itemId": 220023,
+            "guid": "2664326143951405269",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 15406,
+            "guid": "2664326143951408904",
+            "equip": {
+                "weapon": {
+                    "level": 90,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "115406": 2
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 71523,
+            "guid": "2664326143951412124",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501023,
+                        501221,
+                        501204,
+                        501231,
+                        501201,
+                        501234,
+                        501023,
+                        501231
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 71513,
+            "guid": "2664326143951412233",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15010,
+                    "appendPropIdList": [
+                        501082,
+                        501233,
+                        501224,
+                        501054,
+                        501082,
+                        501084,
+                        501231,
+                        501234
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 71543,
+            "guid": "2664326143951412580",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501034,
+                        501052,
+                        501223,
+                        501232,
+                        501031,
+                        501231,
+                        501223,
+                        501051
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 108137,
+            "guid": "2664326143951415524",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112036,
+            "guid": "2664326143951417180",
+            "material": {
+                "count": 341
+            }
+        },
+        {
+            "itemId": 73553,
+            "guid": "2664326143951419033",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10007,
+                    "appendPropIdList": [
+                        501061,
+                        501052,
+                        501093,
+                        501243,
+                        501241,
+                        501062,
+                        501053,
+                        501051
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 90553,
+            "guid": "2664326143951419304",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501092,
+                        501021,
+                        501081,
+                        501033,
+                        501091,
+                        501032,
+                        501034,
+                        501033
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 220008,
+            "guid": "2664326143951420825",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108117,
+            "guid": "2664326143951421549",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108057,
+            "guid": "2664326143951421550",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 81533,
+            "guid": "2664326143951423493",
+            "equip": {
+                "reliquary": {
+                    "level": 13,
+                    "exp": 10626,
+                    "mainPropId": 13004,
+                    "appendPropIdList": [
+                        501023,
+                        501034,
+                        501242,
+                        501202,
+                        501202,
+                        501023
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 75513,
+            "guid": "2664326143951425165",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15015,
+                    "appendPropIdList": [
+                        501021,
+                        501084,
+                        501063,
+                        501224,
+                        501064,
+                        501064,
+                        501223,
+                        501021
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 80533,
+            "guid": "2664326143951427466",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501083,
+                        501092,
+                        501062,
+                        501201,
+                        501201,
+                        501094,
+                        501094,
+                        501083
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 100055,
+            "guid": "2664326143951428091",
+            "material": {
+                "count": 53
+            }
+        },
+        {
+            "itemId": 104121,
+            "guid": "2664326143951429636",
+            "material": {
+                "count": 86
+            }
+        },
+        {
+            "itemId": 100073,
+            "guid": "2664326143951430262",
+            "material": {
+                "count": 60
+            }
+        },
+        {
+            "itemId": 79523,
+            "guid": "2664326143951431239",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501023,
+                        501034,
+                        501201,
+                        501061,
+                        501061,
+                        501022,
+                        501202,
+                        501033
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 81543,
+            "guid": "2664326143951435645",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501221,
+                        501232,
+                        501202,
+                        501242,
+                        501222,
+                        501223,
+                        501242,
+                        501241
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 108123,
+            "guid": "2664326143951435652",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 79544,
+            "guid": "2664326143951440177",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501242,
+                        501034,
+                        501052,
+                        501223,
+                        501031,
+                        501031,
+                        501053,
+                        501244,
+                        501224
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 361402,
+            "guid": "2664326143951441290",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 362202,
+            "guid": "2664326143951441362",
+            "furniture": {
+                "count": 28
+            }
+        },
+        {
+            "itemId": 77544,
+            "guid": "2664326143951441501",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501052,
+                        501032,
+                        501202,
+                        501223,
+                        501224,
+                        501223,
+                        501222,
+                        501223,
+                        501052
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 220026,
+            "guid": "2664326143951441519",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370304,
+            "guid": "2664326143951441520",
+            "furniture": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 3750102,
+            "guid": "2664326143951441625",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 101105,
+            "guid": "2664326143951443533",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 372309,
+            "guid": "2664326143951443764",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372311,
+            "guid": "2664326143951443765",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 361306,
+            "guid": "2664326143951443767",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 100831,
+            "guid": "2664326143951444867",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104172,
+            "guid": "2664326143951444999",
+            "material": {
+                "count": 24
+            }
+        },
+        {
+            "itemId": 372317,
+            "guid": "2664326143951448028",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 372318,
+            "guid": "2664326143951448029",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 101404,
+            "guid": "2664326143951448036",
+            "material": {
+                "count": 61
+            }
+        },
+        {
+            "itemId": 101403,
+            "guid": "2664326143951448037",
+            "material": {
+                "count": 151
+            }
+        },
+        {
+            "itemId": 362104,
+            "guid": "2664326143951448039",
+            "furniture": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 363309,
+            "guid": "2664326143951448040",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372420,
+            "guid": "2664326143951448041",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 362304,
+            "guid": "2664326143951448046",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372205,
+            "guid": "2664326143951448050",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 372206,
+            "guid": "2664326143951448051",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 101307,
+            "guid": "2664326143951448052",
+            "material": {
+                "count": 124
+            }
+        },
+        {
+            "itemId": 101302,
+            "guid": "2664326143951448073",
+            "material": {
+                "count": 13
+            }
+        },
+        {
+            "itemId": 363102,
+            "guid": "2664326143951448467",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363103,
+            "guid": "2664326143951448468",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361207,
+            "guid": "2664326143951448469",
+            "furniture": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 363203,
+            "guid": "2664326143951448470",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370302,
+            "guid": "2664326143951448481",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361309,
+            "guid": "2664326143951448482",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361206,
+            "guid": "2664326143951448483",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 361208,
+            "guid": "2664326143951448484",
+            "furniture": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 362303,
+            "guid": "2664326143951448485",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 370201,
+            "guid": "2664326143951448486",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370104,
+            "guid": "2664326143951448487",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 92533,
+            "guid": "2664326143951449994",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13004,
+                    "appendPropIdList": [
+                        501223,
+                        501204,
+                        501023
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 91543,
+            "guid": "2664326143951450067",
+            "equip": {
+                "reliquary": {
+                    "level": 14,
+                    "exp": 10957,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501084,
+                        501032,
+                        501243,
+                        501223,
+                        501034,
+                        501222
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 76543,
+            "guid": "2664326143951450256",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501204,
+                        501053,
+                        501062,
+                        501221,
+                        501202,
+                        501224,
+                        501061,
+                        501064
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 373102,
+            "guid": "2664326143951451258",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373201,
+            "guid": "2664326143951451259",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 369101,
+            "guid": "2664326143951451354",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372405,
+            "guid": "2664326143951451360",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372409,
+            "guid": "2664326143951451361",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 372301,
+            "guid": "2664326143951451362",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372306,
+            "guid": "2664326143951451363",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372319,
+            "guid": "2664326143951451364",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 372204,
+            "guid": "2664326143951451367",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 361308,
+            "guid": "2664326143951451368",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 370108,
+            "guid": "2664326143951451369",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363308,
+            "guid": "2664326143951451370",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372428,
+            "guid": "2664326143951452326",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 373110,
+            "guid": "2664326143951452328",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 369107,
+            "guid": "2664326143951453087",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 369110,
+            "guid": "2664326143951453088",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 12306,
+            "guid": "2664326143951453247",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112306": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 75544,
+            "guid": "2664326143951456668",
+            "equip": {
+                "reliquary": {
+                    "level": 19,
+                    "exp": 6570,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501052,
+                        501203,
+                        501063,
+                        501233,
+                        501204,
+                        501204,
+                        501051,
+                        501064
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 80513,
+            "guid": "2664326143951456833",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15009,
+                    "appendPropIdList": [
+                        501222,
+                        501023,
+                        501202,
+                        501094,
+                        501201,
+                        501201,
+                        501024,
+                        501224
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 80523,
+            "guid": "2664326143951456954",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501222,
+                        501203,
+                        501243,
+                        501024,
+                        501022,
+                        501222,
+                        501222,
+                        501222
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 104152,
+            "guid": "2664326143951457270",
+            "material": {
+                "count": 13
+            }
+        },
+        {
+            "itemId": 374103,
+            "guid": "2664326143951458558",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370202,
+            "guid": "2664326143951458559",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372404,
+            "guid": "2664326143951458560",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372314,
+            "guid": "2664326143951459631",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 361305,
+            "guid": "2664326143951459633",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 374309,
+            "guid": "2664326143951464052",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374307,
+            "guid": "2664326143951464053",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370501,
+            "guid": "2664326143951464054",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362105,
+            "guid": "2664326143951464088",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373106,
+            "guid": "2664326143951464102",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373105,
+            "guid": "2664326143951464103",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370503,
+            "guid": "2664326143951464283",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370504,
+            "guid": "2664326143951464284",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373113,
+            "guid": "2664326143951464286",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 373114,
+            "guid": "2664326143951464288",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 374101,
+            "guid": "2664326143951464289",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 360401,
+            "guid": "2664326143951464291",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 81554,
+            "guid": "2664326143951466034",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10007,
+                    "appendPropIdList": [
+                        501054,
+                        501204,
+                        501033,
+                        501224,
+                        501221,
+                        501202,
+                        501032,
+                        501032,
+                        501204
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 360202,
+            "guid": "2664326143951466063",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 364205,
+            "guid": "2664326143951466064",
+            "furniture": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 364209,
+            "guid": "2664326143951466065",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 364201,
+            "guid": "2664326143951466172",
+            "furniture": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 361307,
+            "guid": "2664326143951466173",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 370105,
+            "guid": "2664326143951466175",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370102,
+            "guid": "2664326143951466176",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370502,
+            "guid": "2664326143951466177",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374302,
+            "guid": "2664326143951466178",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374304,
+            "guid": "2664326143951466301",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 81523,
+            "guid": "2664326143951466349",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501063,
+                        501222,
+                        501241,
+                        501203,
+                        501062,
+                        501204,
+                        501224,
+                        501243
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 362201,
+            "guid": "2664326143951467480",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 360101,
+            "guid": "2664326143951468377",
+            "furniture": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 360201,
+            "guid": "2664326143951468378",
+            "furniture": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 360301,
+            "guid": "2664326143951468379",
+            "furniture": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 360402,
+            "guid": "2664326143951468383",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 364301,
+            "guid": "2664326143951468404",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 364401,
+            "guid": "2664326143951468409",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 107010,
+            "guid": "2664326143951468466",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370101,
+            "guid": "2664326143951468678",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 81513,
+            "guid": "2664326143951469526",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15012,
+                    "appendPropIdList": [
+                        501222,
+                        501204,
+                        501242,
+                        501082,
+                        501204,
+                        501201,
+                        501081,
+                        501221
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 369109,
+            "guid": "2664326143951471381",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373301,
+            "guid": "2664326143951471387",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 362102,
+            "guid": "2664326143951471388",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 81543,
+            "guid": "2664326143951471510",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501051,
+                        501064,
+                        501221,
+                        501084,
+                        501064,
+                        501061,
+                        501081,
+                        501064
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 73534,
+            "guid": "2664326143951473286",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501022,
+                        501092,
+                        501203,
+                        501054,
+                        501201,
+                        501024,
+                        501051,
+                        501092,
+                        501054
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 362302,
+            "guid": "2664326143951473563",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 363306,
+            "guid": "2664326143951473564",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113014,
+            "guid": "2664326143951477865",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 113003,
+            "guid": "2664326143951477962",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 77523,
+            "guid": "2664326143951478008",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501061,
+                        501033,
+                        501203,
+                        501221,
+                        501202,
+                        501203,
+                        501224,
+                        501201
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 364206,
+            "guid": "2664326143951478023",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 364207,
+            "guid": "2664326143951478024",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363305,
+            "guid": "2664326143951478025",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 220003,
+            "guid": "2664326143951478930",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362301,
+            "guid": "2664326143951480683",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362101,
+            "guid": "2664326143951480685",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 91523,
+            "guid": "2664326143951481191",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501021,
+                        501064,
+                        501034,
+                        501202,
+                        501204,
+                        501023,
+                        501032,
+                        501061
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 373305,
+            "guid": "2664326143951481555",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113009,
+            "guid": "2664326143951483315",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 92533,
+            "guid": "2664326143951483740",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501203,
+                        501094,
+                        501082,
+                        501024,
+                        501204,
+                        501082,
+                        501024,
+                        501084
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 373112,
+            "guid": "2664326143951483886",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373111,
+            "guid": "2664326143951483887",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374303,
+            "guid": "2664326143951483888",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 363104,
+            "guid": "2664326143951483890",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372202,
+            "guid": "2664326143951485918",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372201,
+            "guid": "2664326143951485920",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 369102,
+            "guid": "2664326143951485929",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372101,
+            "guid": "2664326143951485931",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 372102,
+            "guid": "2664326143951485933",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 372103,
+            "guid": "2664326143951485935",
+            "furniture": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 372105,
+            "guid": "2664326143951485937",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 372106,
+            "guid": "2664326143951485939",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 361103,
+            "guid": "2664326143951485944",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361102,
+            "guid": "2664326143951485945",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370207,
+            "guid": "2664326143951485946",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 369104,
+            "guid": "2664326143951486653",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372104,
+            "guid": "2664326143951487784",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 104153,
+            "guid": "2664326143951488482",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371201,
+            "guid": "2664326143951488775",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373309,
+            "guid": "2664326143951488776",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 371103,
+            "guid": "2664326143951488779",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 370206,
+            "guid": "2664326143951488780",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361203,
+            "guid": "2664326143951488785",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 373401,
+            "guid": "2664326143951488786",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 361205,
+            "guid": "2664326143951489730",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370203,
+            "guid": "2664326143951489732",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373202,
+            "guid": "2664326143951489733",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373308,
+            "guid": "2664326143951489734",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 371202,
+            "guid": "2664326143951489737",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374102,
+            "guid": "2664326143951490487",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373402,
+            "guid": "2664326143951490488",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 371204,
+            "guid": "2664326143951490492",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371203,
+            "guid": "2664326143951490493",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77544,
+            "guid": "2664326143951491502",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501053,
+                        501232,
+                        501221,
+                        501244
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 80452,
+            "guid": "2664326143951491814",
+            "equip": {
+                "reliquary": {
+                    "level": 17,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        401092,
+                        401034,
+                        401081,
+                        401242,
+                        401091,
+                        401031
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 11304,
+            "guid": "2664326143951493936",
+            "equip": {
+                "weapon": {
+                    "level": 20,
+                    "affixMap": {
+                        "111304": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 371205,
+            "guid": "2664326143951494626",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370110,
+            "guid": "2664326143951494676",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370109,
+            "guid": "2664326143951494677",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362103,
+            "guid": "2664326143951494705",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373101,
+            "guid": "2664326143951494706",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373304,
+            "guid": "2664326143951494707",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 111017,
+            "guid": "2664326143951495612",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 14409,
+            "guid": "2664326143951497778",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "114409": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 370106,
+            "guid": "2664326143951499824",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100370,
+            "guid": "2664326143951510429",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100788,
+            "guid": "2664326143951510610",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113019,
+            "guid": "2664326143951514954",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 12409,
+            "guid": "2664326143951515253",
+            "equip": {
+                "weapon": {
+                    "level": 90,
+                    "promoteLevel": 6,
+                    "affixMap": {
+                        "112409": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114021,
+            "guid": "2664326143951518404",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 82523,
+            "guid": "2664326143951524892",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501233,
+                        501032,
+                        501203,
+                        501224,
+                        501201,
+                        501234,
+                        501201,
+                        501222
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100057,
+            "guid": "2664326143951527912",
+            "material": {
+                "count": 27
+            }
+        },
+        {
+            "itemId": 220028,
+            "guid": "2664326143951528541",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101515,
+            "guid": "2664326143951530495",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 220027,
+            "guid": "2664326143951531390",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 82553,
+            "guid": "2664326143951531745",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10002,
+                    "appendPropIdList": [
+                        501231,
+                        501224,
+                        501064,
+                        501021,
+                        501232,
+                        501223,
+                        501024,
+                        501062
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 101206,
+            "guid": "2664326143951532005",
+            "material": {
+                "count": 123
+            }
+        },
+        {
+            "itemId": 369108,
+            "guid": "2664326143951535454",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113022,
+            "guid": "2664326143951536819",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 113020,
+            "guid": "2664326143951537594",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108113,
+            "guid": "2664326143951539326",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 14413,
+            "guid": "2664326143951542147",
+            "equip": {
+                "weapon": {
+                    "level": 70,
+                    "promoteLevel": 4,
+                    "affixMap": {
+                        "114413": 4
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 74554,
+            "guid": "2664326143951542355",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501241,
+                        501081,
+                        501033,
+                        501022
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 364211,
+            "guid": "2664326143951542893",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362206,
+            "guid": "2664326143951542894",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362207,
+            "guid": "2664326143951542895",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 111014,
+            "guid": "2664326143951544059",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 13401,
+            "guid": "2664326143951544418",
+            "equip": {
+                "weapon": {
+                    "level": 50,
+                    "promoteLevel": 2,
+                    "affixMap": {
+                        "113401": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 91513,
+            "guid": "2664326143951545289",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15002,
+                    "appendPropIdList": [
+                        501061,
+                        501082,
+                        501051,
+                        501232,
+                        501062,
+                        501082,
+                        501064,
+                        501234
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 76543,
+            "guid": "2664326143951546542",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501062,
+                        501224,
+                        501203,
+                        501031,
+                        501224,
+                        501223,
+                        501061,
+                        501221
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 91524,
+            "guid": "2664326143951547141",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501234,
+                        501022,
+                        501242,
+                        501033
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 92544,
+            "guid": "2664326143951547210",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501232,
+                        501051,
+                        501062,
+                        501203,
+                        501232,
+                        501202,
+                        501051,
+                        501051,
+                        501064
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 108160,
+            "guid": "2664326143951547735",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362209,
+            "guid": "2664326143951547739",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373313,
+            "guid": "2664326143951547740",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371109,
+            "guid": "2664326143951547741",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370401,
+            "guid": "2664326143951547742",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 92544,
+            "guid": "2664326143951547949",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501082,
+                        501031,
+                        501224,
+                        501064,
+                        501224,
+                        501064,
+                        501222,
+                        501224,
+                        501081
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 92533,
+            "guid": "2664326143951548148",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13007,
+                    "appendPropIdList": [
+                        501052,
+                        501064,
+                        501224,
+                        501234,
+                        501222,
+                        501222,
+                        501231,
+                        501052
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 101402,
+            "guid": "2664326143951549537",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 360405,
+            "guid": "2664326143951549538",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 360406,
+            "guid": "2664326143951549539",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362208,
+            "guid": "2664326143951549540",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373120,
+            "guid": "2664326143951549565",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374404,
+            "guid": "2664326143951549566",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373124,
+            "guid": "2664326143951549567",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373122,
+            "guid": "2664326143951549568",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371206,
+            "guid": "2664326143951549573",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 363204,
+            "guid": "2664326143951549578",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363205,
+            "guid": "2664326143951549579",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361303,
+            "guid": "2664326143951549582",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363101,
+            "guid": "2664326143951549583",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 375101,
+            "guid": "2664326143951549585",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100094,
+            "guid": "2664326143951549782",
+            "material": {
+                "count": 16
+            }
+        },
+        {
+            "itemId": 104162,
+            "guid": "2664326143951553988",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 112034,
+            "guid": "2664326143951554074",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 100816,
+            "guid": "2664326143951556330",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 76452,
+            "guid": "2664326143951556387",
+            "equip": {
+                "reliquary": {
+                    "level": 17,
+                    "mainPropId": 10008,
+                    "appendPropIdList": [
+                        401223,
+                        401064,
+                        401092,
+                        401033,
+                        401091,
+                        401223
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 76523,
+            "guid": "2664326143951556462",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501063,
+                        501241,
+                        501081,
+                        501221,
+                        501082,
+                        501221,
+                        501222,
+                        501081
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 363202,
+            "guid": "2664326143951559159",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112041,
+            "guid": "2664326143951559586",
+            "material": {
+                "count": 62
+            }
+        },
+        {
+            "itemId": 101304,
+            "guid": "2664326143951559775",
+            "material": {
+                "count": 20
+            }
+        },
+        {
+            "itemId": 14401,
+            "guid": "2664326143951561372",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "114401": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 76533,
+            "guid": "2664326143951563783",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13010,
+                    "appendPropIdList": [
+                        501094,
+                        501233,
+                        501082,
+                        501053,
+                        501094,
+                        501053,
+                        501054,
+                        501054
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 113017,
+            "guid": "2664326143951563954",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 76513,
+            "guid": "2664326143951564072",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15011,
+                    "appendPropIdList": [
+                        501201,
+                        501093,
+                        501224,
+                        501242,
+                        501222,
+                        501203,
+                        501201,
+                        501224
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 11405,
+            "guid": "2664326143951564288",
+            "equip": {
+                "weapon": {
+                    "level": 79,
+                    "exp": 48900,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "111405": 1
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114013,
+            "guid": "2664326143951564468",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 77543,
+            "guid": "2664326143951568623",
+            "equip": {
+                "reliquary": {
+                    "level": 9,
+                    "exp": 1307,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501203,
+                        501081,
+                        501223,
+                        501032,
+                        501082
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114022,
+            "guid": "2664326143951570057",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 101401,
+            "guid": "2664326143951570497",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 373121,
+            "guid": "2664326143951570498",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 360102,
+            "guid": "2664326143951574513",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361310,
+            "guid": "2664326143951574518",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363201,
+            "guid": "2664326143951574519",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363307,
+            "guid": "2664326143951574520",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361401,
+            "guid": "2664326143951574522",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373107,
+            "guid": "2664326143951574523",
+            "furniture": {
+                "count": 16
+            }
+        },
+        {
+            "itemId": 373119,
+            "guid": "2664326143951574524",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363310,
+            "guid": "2664326143951574525",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374202,
+            "guid": "2664326143951574526",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373307,
+            "guid": "2664326143951574527",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 371209,
+            "guid": "2664326143951574600",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362205,
+            "guid": "2664326143951574601",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361106,
+            "guid": "2664326143951574602",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 360403,
+            "guid": "2664326143951574605",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373109,
+            "guid": "2664326143951574606",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373108,
+            "guid": "2664326143951574607",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371207,
+            "guid": "2664326143951574609",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371211,
+            "guid": "2664326143951574610",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100703,
+            "guid": "2664326143951576328",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 91553,
+            "guid": "2664326143951577623",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10002,
+                    "appendPropIdList": [
+                        501223,
+                        501061,
+                        501203,
+                        501022,
+                        501021,
+                        501221,
+                        501222,
+                        501022
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 101308,
+            "guid": "2664326143951577710",
+            "material": {
+                "count": 22
+            }
+        },
+        {
+            "itemId": 112042,
+            "guid": "2664326143951578849",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 77543,
+            "guid": "2664326143951582482",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501221,
+                        501244,
+                        501233
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104306,
+            "guid": "2664326143951582578",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 112039,
+            "guid": "2664326143951583005",
+            "material": {
+                "count": 70
+            }
+        },
+        {
+            "itemId": 104143,
+            "guid": "2664326143951583506",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104308,
+            "guid": "2664326143951583510",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 100061,
+            "guid": "2664326143951583917",
+            "material": {
+                "count": 80
+            }
+        },
+        {
+            "itemId": 113002,
+            "guid": "2664326143951584314",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 100901,
+            "guid": "2664326143951584854",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100902,
+            "guid": "2664326143951584859",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100916,
+            "guid": "2664326143951584865",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101008,
+            "guid": "2664326143951584881",
+            "material": {
+                "count": 33
+            }
+        },
+        {
+            "itemId": 101211,
+            "guid": "2664326143951585376",
+            "material": {
+                "count": 48
+            }
+        },
+        {
+            "itemId": 101309,
+            "guid": "2664326143951585461",
+            "material": {
+                "count": 12
+            }
+        },
+        {
+            "itemId": 101312,
+            "guid": "2664326143951585610",
+            "material": {
+                "count": 73
+            }
+        },
+        {
+            "itemId": 100881,
+            "guid": "2664326143951585632",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 104320,
+            "guid": "2664326143951585850",
+            "material": {
+                "count": 52
+            }
+        },
+        {
+            "itemId": 101210,
+            "guid": "2664326143951585960",
+            "material": {
+                "count": 19
+            }
+        },
+        {
+            "itemId": 104326,
+            "guid": "2664326143951586319",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 100917,
+            "guid": "2664326143951586539",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101204,
+            "guid": "2664326143951586884",
+            "material": {
+                "count": 16
+            }
+        },
+        {
+            "itemId": 101503,
+            "guid": "2664326143951587060",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 100969,
+            "guid": "2664326143951587073",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112050,
+            "guid": "2664326143951587112",
+            "material": {
+                "count": 133
+            }
+        },
+        {
+            "itemId": 112051,
+            "guid": "2664326143951587113",
+            "material": {
+                "count": 35
+            }
+        },
+        {
+            "itemId": 104322,
+            "guid": "2664326143951587154",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 104325,
+            "guid": "2664326143951587155",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 101201,
+            "guid": "2664326143951587199",
+            "material": {
+                "count": 26
+            }
+        },
+        {
+            "itemId": 100970,
+            "guid": "2664326143951587344",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77524,
+            "guid": "2664326143951587863",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501204,
+                        501033,
+                        501091,
+                        501221
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100893,
+            "guid": "2664326143951587993",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104321,
+            "guid": "2664326143951587999",
+            "material": {
+                "count": 31
+            }
+        },
+        {
+            "itemId": 101501,
+            "guid": "2664326143951588007",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 363311,
+            "guid": "2664326143951588337",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77533,
+            "guid": "2664326143951588458",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501091,
+                        501021,
+                        501243,
+                        501051,
+                        501053,
+                        501093,
+                        501241,
+                        501242
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 101528,
+            "guid": "2664326143951589043",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108299,
+            "guid": "2664326143951589181",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 112052,
+            "guid": "2664326143951589482",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 101502,
+            "guid": "2664326143951590272",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 100974,
+            "guid": "2664326143951590701",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108296,
+            "guid": "2664326143951592715",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 101310,
+            "guid": "2664326143951592934",
+            "material": {
+                "count": 13
+            }
+        },
+        {
+            "itemId": 108115,
+            "guid": "2664326143951593753",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104311,
+            "guid": "2664326143951593897",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77514,
+            "guid": "2664326143951595472",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15009,
+                    "appendPropIdList": [
+                        501224,
+                        501202,
+                        501023,
+                        501234,
+                        501221,
+                        501221,
+                        501233,
+                        501021,
+                        501233
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 77513,
+            "guid": "2664326143951595475",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15011,
+                    "appendPropIdList": [
+                        501222,
+                        501024,
+                        501204,
+                        501084,
+                        501204,
+                        501222,
+                        501084,
+                        501023
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 220017,
+            "guid": "2664326143951595797",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 75514,
+            "guid": "2664326143951597143",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15006,
+                    "appendPropIdList": [
+                        501201,
+                        501224,
+                        501062,
+                        501082,
+                        501083,
+                        501062,
+                        501064,
+                        501204,
+                        501083
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 101205,
+            "guid": "2664326143951598968",
+            "material": {
+                "count": 29
+            }
+        },
+        {
+            "itemId": 91433,
+            "guid": "2664326143951599549",
+            "equip": {
+                "reliquary": {
+                    "level": 17,
+                    "mainPropId": 13002,
+                    "appendPropIdList": [
+                        401094,
+                        401231,
+                        401051,
+                        401081,
+                        401081,
+                        401092,
+                        401083
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 112030,
+            "guid": "2664326143951599652",
+            "material": {
+                "count": 12
+            }
+        },
+        {
+            "itemId": 101537,
+            "guid": "2664326143951600002",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 220036,
+            "guid": "2664326143951600031",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101311,
+            "guid": "2664326143951600285",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 221018,
+            "guid": "2664326143951600596",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 114006,
+            "guid": "2664326143951600793",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 114008,
+            "guid": "2664326143951600794",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 75514,
+            "guid": "2664326143951602118",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15013,
+                    "appendPropIdList": [
+                        501223,
+                        501204,
+                        501023,
+                        501244,
+                        501223,
+                        501242,
+                        501021,
+                        501244,
+                        501243
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 12403,
+            "guid": "2664326143951603743",
+            "equip": {
+                "weapon": {
+                    "level": 9,
+                    "exp": 25,
+                    "affixMap": {
+                        "112403": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 11414,
+            "guid": "2664326143951608767",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "111414": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 101103,
+            "guid": "2664326143951609257",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77553,
+            "guid": "2664326143951610992",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501222,
+                        501031,
+                        501232,
+                        501052,
+                        501232,
+                        501234,
+                        501224,
+                        501033
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 108227,
+            "guid": "2664326143951611548",
+            "material": {
+                "count": 19
+            }
+        },
+        {
+            "itemId": 108021,
+            "guid": "2664326143951611549",
+            "material": {
+                "count": 27
+            }
+        },
+        {
+            "itemId": 114025,
+            "guid": "2664326143951611688",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 108278,
+            "guid": "2664326143951613237",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 100084,
+            "guid": "2664326143951613863",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 53422,
+            "guid": "2664326143951614012",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        401242,
+                        401021
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 90553,
+            "guid": "2664326143951614020",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10002,
+                    "appendPropIdList": [
+                        501054,
+                        501022,
+                        501233
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 53432,
+            "guid": "2664326143951614483",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13006,
+                    "appendPropIdList": [
+                        401234,
+                        401203
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 101203,
+            "guid": "2664326143951614978",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 100080,
+            "guid": "2664326143951615062",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 114026,
+            "guid": "2664326143951615248",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 71554,
+            "guid": "2664326143951616055",
+            "equip": {
+                "reliquary": {
+                    "level": 19,
+                    "exp": 25554,
+                    "mainPropId": 10008,
+                    "appendPropIdList": [
+                        501204,
+                        501234,
+                        501022,
+                        501223,
+                        501204,
+                        501233,
+                        501022,
+                        501234
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 77544,
+            "guid": "2664326143951618257",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501222,
+                        501244,
+                        501092,
+                        501204
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104304,
+            "guid": "2664326143951620481",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 114019,
+            "guid": "2664326143951621666",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 75514,
+            "guid": "2664326143951621952",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15015,
+                    "appendPropIdList": [
+                        501204,
+                        501233,
+                        501021,
+                        501054
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 104307,
+            "guid": "2664326143951622403",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 114018,
+            "guid": "2664326143951623633",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 112044,
+            "guid": "2664326143951624020",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112028,
+            "guid": "2664326143951624451",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 220038,
+            "guid": "2664326143951624483",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113011,
+            "guid": "2664326143951624806",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104111,
+            "guid": "2664326143951627303",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 77513,
+            "guid": "2664326143951628787",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15007,
+                    "appendPropIdList": [
+                        501092,
+                        501034,
+                        501022,
+                        501223,
+                        501222,
+                        501033,
+                        501021,
+                        501032
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 100058,
+            "guid": "2664326143951629014",
+            "material": {
+                "count": 16
+            }
+        },
+        {
+            "itemId": 110005,
+            "guid": "2664326143951629110",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 104112,
+            "guid": "2664326143951629173",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 372307,
+            "guid": "2664326143951629286",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372410,
+            "guid": "2664326143951629287",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373302,
+            "guid": "2664326143951629378",
+            "furniture": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 373303,
+            "guid": "2664326143951629380",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 372211,
+            "guid": "2664326143951631158",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104305,
+            "guid": "2664326143951631161",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 360404,
+            "guid": "2664326143951633792",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 360302,
+            "guid": "2664326143951633793",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361302,
+            "guid": "2664326143951633795",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 362106,
+            "guid": "2664326143951633796",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363303,
+            "guid": "2664326143951633797",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363302,
+            "guid": "2664326143951633798",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370301,
+            "guid": "2664326143951633799",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370303,
+            "guid": "2664326143951633800",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370305,
+            "guid": "2664326143951633801",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374305,
+            "guid": "2664326143951633802",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374402,
+            "guid": "2664326143951633803",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373406,
+            "guid": "2664326143951633804",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373103,
+            "guid": "2664326143951633805",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 114002,
+            "guid": "2664326143951633808",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 108070,
+            "guid": "2664326143951635108",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108006,
+            "guid": "2664326143951635728",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104301,
+            "guid": "2664326143951637634",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 92543,
+            "guid": "2664326143951638367",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501052,
+                        501231,
+                        501223
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 71553,
+            "guid": "2664326143951638442",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501224,
+                        501052,
+                        501022,
+                        501092,
+                        501223,
+                        501222,
+                        501221,
+                        501051
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 82543,
+            "guid": "2664326143951638502",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501221,
+                        501244,
+                        501201
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 104164,
+            "guid": "2664326143951639098",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 101301,
+            "guid": "2664326143951640934",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 101208,
+            "guid": "2664326143951641990",
+            "material": {
+                "count": 66
+            }
+        },
+        {
+            "itemId": 101207,
+            "guid": "2664326143951642598",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 100957,
+            "guid": "2664326143951643496",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101561,
+            "guid": "2664326143951643549",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77514,
+            "guid": "2664326143951645118",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15013,
+                    "appendPropIdList": [
+                        501022,
+                        501053,
+                        501223,
+                        501233
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 100950,
+            "guid": "2664326143951645124",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101504,
+            "guid": "2664326143951645139",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 11412,
+            "guid": "2664326143951645815",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "111412": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 15415,
+            "guid": "2664326143951645819",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "115415": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114029,
+            "guid": "2664326143951646244",
+            "material": {
+                "count": 6
+            }
+        },
+        {
+            "itemId": 112049,
+            "guid": "2664326143951649299",
+            "material": {
+                "count": 12
+            }
+        },
+        {
+            "itemId": 101505,
+            "guid": "2664326143951649378",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 111024,
+            "guid": "2664326143951651074",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 111025,
+            "guid": "2664326143951651075",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 111026,
+            "guid": "2664326143951651076",
+            "material": {
+                "count": 112
+            }
+        },
+        {
+            "itemId": 200900,
+            "guid": "2664326143951651077",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 131000,
+            "guid": "2664326143951651079",
+            "material": {
+                "count": 16
+            }
+        },
+        {
+            "itemId": 379001,
+            "guid": "2664326143951651083",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 131004,
+            "guid": "2664326143951651085",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 131005,
+            "guid": "2664326143951651104",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 379013,
+            "guid": "2664326143951651121",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 379012,
+            "guid": "2664326143951651122",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101560,
+            "guid": "2664326143951651770",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 114010,
+            "guid": "2664326143951652635",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 373312,
+            "guid": "2664326143951653050",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 363304,
+            "guid": "2664326143951653051",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100079,
+            "guid": "2664326143951656120",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 100348,
+            "guid": "2664326143951660324",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 81513,
+            "guid": "2664326143951660665",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 15008,
+                    "appendPropIdList": [
+                        501203,
+                        501063,
+                        501081,
+                        501231,
+                        501203,
+                        501232,
+                        501063,
+                        501063
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 108048,
+            "guid": "2664326143951660683",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100023,
+            "guid": "2664326143951660684",
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 77533,
+            "guid": "2664326143951661342",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501022,
+                        501052,
+                        501062
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 100895,
+            "guid": "2664326143951662913",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 111023,
+            "guid": "2664326143951663516",
+            "material": {
+                "count": 292
+            }
+        },
+        {
+            "itemId": 131002,
+            "guid": "2664326143951663518",
+            "material": {
+                "count": 31
+            }
+        },
+        {
+            "itemId": 373126,
+            "guid": "2664326143951666388",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 131014,
+            "guid": "2664326143951666745",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100062,
+            "guid": "2664326143951667128",
+            "material": {
+                "count": 36
+            }
+        },
+        {
+            "itemId": 131019,
+            "guid": "2664326143951667232",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 104142,
+            "guid": "2664326143951669583",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 104141,
+            "guid": "2664326143951669830",
+            "material": {
+                "count": 31
+            }
+        },
+        {
+            "itemId": 131008,
+            "guid": "2664326143951670098",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 379018,
+            "guid": "2664326143951670122",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 114001,
+            "guid": "2664326143951670170",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 101303,
+            "guid": "2664326143951670174",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 374201,
+            "guid": "2664326143951670345",
+            "furniture": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 370205,
+            "guid": "2664326143951670348",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361311,
+            "guid": "2664326143951670350",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 361105,
+            "guid": "2664326143951670351",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370103,
+            "guid": "2664326143951670352",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370107,
+            "guid": "2664326143951670353",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 131009,
+            "guid": "2664326143951670491",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 13415,
+            "guid": "2664326143951671046",
+            "equip": {
+                "weapon": {
+                    "level": 80,
+                    "promoteLevel": 5,
+                    "affixMap": {
+                        "113415": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114036,
+            "guid": "2664326143951671179",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 101202,
+            "guid": "2664326143951671579",
+            "material": {
+                "count": 17
+            }
+        },
+        {
+            "itemId": 108214,
+            "guid": "2664326143951674514",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108013,
+            "guid": "2664326143951674519",
+            "material": {
+                "count": 17
+            }
+        },
+        {
+            "itemId": 131001,
+            "guid": "2664326143951675775",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 101559,
+            "guid": "2664326143951675776",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 131003,
+            "guid": "2664326143951675811",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 131020,
+            "guid": "2664326143951675813",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104327,
+            "guid": "2664326143951675826",
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 93524,
+            "guid": "2664326143951675935",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501203,
+                        501223,
+                        501083,
+                        501243,
+                        501221,
+                        501224,
+                        501224,
+                        501082,
+                        501081
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 114034,
+            "guid": "2664326143951676692",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 112053,
+            "guid": "2664326143951677490",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 200904,
+            "guid": "2664326143951677766",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 379019,
+            "guid": "2664326143951677767",
+            "furniture": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 101002,
+            "guid": "2664326143951678278",
+            "material": {
+                "count": 86
+            }
+        },
+        {
+            "itemId": 108091,
+            "guid": "2664326143951678554",
+            "material": {
+                "count": 14
+            }
+        },
+        {
+            "itemId": 107013,
+            "guid": "2664326143951678645",
+            "material": {
+                "count": 17
+            }
+        },
+        {
+            "itemId": 362204,
+            "guid": "2664326143951678648",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 370204,
+            "guid": "2664326143951678649",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 371101,
+            "guid": "2664326143951678650",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374301,
+            "guid": "2664326143951678651",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 374104,
+            "guid": "2664326143951678652",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373118,
+            "guid": "2664326143951678653",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 373204,
+            "guid": "2664326143951678654",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100064,
+            "guid": "2664326143951678809",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112045,
+            "guid": "2664326143951680014",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 12401,
+            "guid": "2664326143951680080",
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112401": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 304,
+            "guid": "2664326143951680088",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 100092,
+            "guid": "2664326143951680097",
+            "material": {
+                "count": 57
+            }
+        },
+        {
+            "itemId": 100892,
+            "guid": "2664326143951680113",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 77514,
+            "guid": "2664326143951680175",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15008,
+                    "appendPropIdList": [
+                        501053,
+                        501244,
+                        501203,
+                        501091
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 108305,
+            "guid": "2664326143951680773",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 94533,
+            "guid": "2664326143951680956",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501202,
+                        501061,
+                        501033,
+                        501024,
+                        501204,
+                        501201,
+                        501062,
+                        501023
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 93544,
+            "guid": "2664326143951681991",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501052,
+                        501224,
+                        501061,
+                        501231
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 93543,
+            "guid": "2664326143951682104",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501222,
+                        501054,
+                        501063
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 93554,
+            "guid": "2664326143951682106",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501021,
+                        501082,
+                        501224,
+                        501234,
+                        501223,
+                        501224,
+                        501223,
+                        501223,
+                        501024
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 111018,
+            "guid": "2664326143951682289",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 111016,
+            "guid": "2664326143951682291",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 75523,
+            "guid": "2664326143951682295",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501022,
+                        501234,
+                        501224
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94553,
+            "guid": "2664326143951682489",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10007,
+                    "appendPropIdList": [
+                        501023,
+                        501094,
+                        501221,
+                        501082,
+                        501092,
+                        501224,
+                        501084,
+                        501021
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 108106,
+            "guid": "2664326143951682704",
+            "material": {
+                "count": 16
+            }
+        },
+        {
+            "itemId": 108224,
+            "guid": "2664326143951682706",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 94513,
+            "guid": "2664326143951685161",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15011,
+                    "appendPropIdList": [
+                        501024,
+                        501234,
+                        501061
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94513,
+            "guid": "2664326143951685162",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15008,
+                    "appendPropIdList": [
+                        501052,
+                        501222,
+                        501093
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94523,
+            "guid": "2664326143951685273",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501083,
+                        501223,
+                        501064,
+                        501203,
+                        501062,
+                        501221,
+                        501083,
+                        501082
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 104323,
+            "guid": "2664326143951685341",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 93543,
+            "guid": "2664326143951685524",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501224,
+                        501204,
+                        501061,
+                        501031,
+                        501223,
+                        501224,
+                        501034,
+                        501032
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 220035,
+            "guid": "2664326143951685924",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113021,
+            "guid": "2664326143951686053",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 94543,
+            "guid": "2664326143951686428",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501204,
+                        501082,
+                        501052,
+                        501221,
+                        501221,
+                        501221,
+                        501052,
+                        501201
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93543,
+            "guid": "2664326143951686539",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501202,
+                        501054,
+                        501061
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 112043,
+            "guid": "2664326143951686615",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 373115,
+            "guid": "2664326143951686725",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 93554,
+            "guid": "2664326143951688049",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501051,
+                        501091,
+                        501233,
+                        501223
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 100095,
+            "guid": "2664326143951688134",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112055,
+            "guid": "2664326143951688429",
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 104123,
+            "guid": "2664326143951688615",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 114005,
+            "guid": "2664326143951689081",
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 307,
+            "guid": "2664326143951689301",
+            "material": {
+                "count": 65
+            }
+        },
+        {
+            "itemId": 220033,
+            "guid": "2664326143951689478",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 372502,
+            "guid": "2664326143951689479",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100027,
+            "guid": "2664326143951689628",
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 107003,
+            "guid": "2664326143951689859",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 110001,
+            "guid": "2664326143951690143",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100077,
+            "guid": "2664326143951690144",
+            "material": {
+                "count": 97
+            }
+        },
+        {
+            "itemId": 108109,
+            "guid": "2664326143951690147",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 104122,
+            "guid": "2664326143951690309",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 12412,
+            "guid": "2664326143951690789",
+            "equip": {
+                "weapon": {
+                    "level": 70,
+                    "promoteLevel": 4,
+                    "affixMap": {
+                        "112412": 2
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 108033,
+            "guid": "2664326143951691898",
+            "material": {
+                "count": 13
+            }
+        },
+        {
+            "itemId": 221,
+            "guid": "2664326143951692086",
+            "material": {
+                "count": 24
+            }
+        },
+        {
+            "itemId": 113026,
+            "guid": "2664326143951692770",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 113027,
+            "guid": "2664326143951692771",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 104302,
+            "guid": "2664326143951693746",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108157,
+            "guid": "2664326143951695672",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108317,
+            "guid": "2664326143951695695",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 89534,
+            "guid": "2664326143951696109",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 13007,
+                    "appendPropIdList": [
+                        501064,
+                        501093,
+                        501023,
+                        501244,
+                        501061,
+                        501061,
+                        501023,
+                        501061,
+                        501092
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 89553,
+            "guid": "2664326143951696256",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501053,
+                        501234,
+                        501223,
+                        501024,
+                        501051,
+                        501023,
+                        501234,
+                        501054
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 89523,
+            "guid": "2664326143951696654",
+            "equip": {
+                "reliquary": {
+                    "level": 21,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501231,
+                        501063,
+                        501221,
+                        501201,
+                        501202,
+                        501062,
+                        501062,
+                        501061
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 373314,
+            "guid": "2664326143951697042",
+            "furniture": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 89543,
+            "guid": "2664326143951697270",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501221,
+                        501232,
+                        501081
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 89523,
+            "guid": "2664326143951697337",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501081,
+                        501231,
+                        501224
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 12401,
+            "guid": "2664326143951697556",
+            "equip": {
+                "weapon": {
+                    "level": 50,
+                    "promoteLevel": 2,
+                    "affixMap": {
+                        "112401": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 112046,
+            "guid": "2664326143951698950",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 82523,
+            "guid": "2664326143951701785",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501234,
+                        501033,
+                        501023
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 114009,
+            "guid": "2664326143951701791",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 114033,
+            "guid": "2664326143951701796",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108136,
+            "guid": "2664326143951704622",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101006,
+            "guid": "2664326143951705462",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 114014,
+            "guid": "2664326143951705861",
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 108066,
+            "guid": "2664326143951706204",
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 81523,
+            "guid": "2664326143951706550",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501093,
+                        501201,
+                        501224
+                    ]
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 93533,
+            "guid": "2664326143951707009",
+            "equip": {
+                "reliquary": {
+                    "level": 15,
+                    "exp": 6895,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501033,
+                        501024,
+                        501241,
+                        501051,
+                        501033,
+                        501033
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94523,
+            "guid": "2664326143951707013",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501091,
+                        501022,
+                        501031
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51422,
+            "guid": "2664326143951707057",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        401082,
+                        401093
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51452,
+            "guid": "2664326143951707058",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10006,
+                    "appendPropIdList": [
+                        401023,
+                        401052
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93533,
+            "guid": "2664326143951707064",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13009,
+                    "appendPropIdList": [
+                        501241,
+                        501091,
+                        501082
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94553,
+            "guid": "2664326143951707067",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10007,
+                    "appendPropIdList": [
+                        501094,
+                        501242,
+                        501083
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51432,
+            "guid": "2664326143951707109",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13002,
+                    "appendPropIdList": [
+                        401202,
+                        401081
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51433,
+            "guid": "2664326143951707110",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13002,
+                    "appendPropIdList": [
+                        401084,
+                        401243,
+                        401063
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93412,
+            "guid": "2664326143951707114",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15009,
+                    "appendPropIdList": [
+                        401021,
+                        401061
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93523,
+            "guid": "2664326143951707118",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        501023,
+                        501062,
+                        501233
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94533,
+            "guid": "2664326143951707119",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13008,
+                    "appendPropIdList": [
+                        501024,
+                        501204,
+                        501084
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51422,
+            "guid": "2664326143951707862",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001,
+                    "appendPropIdList": [
+                        401084,
+                        401062
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51442,
+            "guid": "2664326143951707863",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        401232,
+                        401224
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 54452,
+            "guid": "2664326143951707870",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10002,
+                    "appendPropIdList": [
+                        401082,
+                        401064
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94513,
+            "guid": "2664326143951707871",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15006,
+                    "appendPropIdList": [
+                        501023,
+                        501223,
+                        501233
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94553,
+            "guid": "2664326143951707872",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10006,
+                    "appendPropIdList": [
+                        501223,
+                        501233,
+                        501083
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 54452,
+            "guid": "2664326143951707925",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10002,
+                    "appendPropIdList": [
+                        401091,
+                        401232
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93553,
+            "guid": "2664326143951707928",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501233,
+                        501052,
+                        501021
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94554,
+            "guid": "2664326143951707931",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10006,
+                    "appendPropIdList": [
+                        501242,
+                        501021,
+                        501033,
+                        501202
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51412,
+            "guid": "2664326143951707993",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15002,
+                    "appendPropIdList": [
+                        401051,
+                        401083
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51442,
+            "guid": "2664326143951707994",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        401032,
+                        401052
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93543,
+            "guid": "2664326143951708001",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501224,
+                        501032,
+                        501053
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 51443,
+            "guid": "2664326143951708052",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        401232,
+                        401051,
+                        401084
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 54432,
+            "guid": "2664326143951708054",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13004,
+                    "appendPropIdList": [
+                        401034,
+                        401052
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 93553,
+            "guid": "2664326143951708056",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 10004,
+                    "appendPropIdList": [
+                        501033,
+                        501021,
+                        501052
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 94543,
+            "guid": "2664326143951708059",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 14001,
+                    "appendPropIdList": [
+                        501091,
+                        501033,
+                        501082
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 108047,
+            "guid": "2664326143951708091",
+            "material": {
+                "count": 11
+            }
+        },
+        {
+            "itemId": 104002,
+            "guid": "2664326143951708107",
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 77514,
+            "guid": "2664326143951708108",
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 15004,
+                    "appendPropIdList": [
+                        501054,
+                        501221,
+                        501021,
+                        501233
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 55453,
+            "guid": "2664326143951708109",
+            "equip": {
+                "reliquary": {
+                    "level": 3,
+                    "exp": 2185,
+                    "mainPropId": 10007,
+                    "appendPropIdList": [
+                        401052,
+                        401024,
+                        401241
+                    ]
+                }
+            }
+        },
+        {
+            "itemId": 101001,
+            "guid": "2664326143951708381",
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 220007,
+            "guid": "2664326143951708686",
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 112029,
+            "guid": "2672722530137102541",
+            "material": {
+                "count": 65
+            }
+        },
+        {
+            "itemId": 101305,
+            "guid": "2672722530137121544",
+            "material": {
+                "count": 2
+            }
+        }
+    ],
+    "weightLimit": 30000
+}

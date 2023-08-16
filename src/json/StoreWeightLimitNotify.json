@@ -1,0 +1,8 @@
+{
+    "storeType": "STORE_PACK",
+    "weightLimit": 30000,
+    "materialCountLimit": 2000,
+    "weaponCountLimit": 2000,
+    "reliquaryCountLimit": 1500,
+    "furnitureCountLimit": 2000
+}

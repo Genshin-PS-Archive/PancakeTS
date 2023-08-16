@@ -1,0 +1,51 @@
+{
+    "friendList": [
+        {
+            "uid": 1,
+            "nickname": "Console",
+            "level": 60,
+            "worldLevel": 5,
+            "param": 31,
+            "signature": "Test",
+            "isMpModeAvailable": true,
+            "lastActiveTime": 1630625176,
+            "nameCardId": 210001,
+            "showAvatarInfoList": [
+                {
+                    "avatarId": 10000042,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000037,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000033,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000035,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000002,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000049,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000032,
+                    "level": 90
+                }
+            ],
+
+            "profilePicture": {
+                "avatarId": 10000007
+            },
+            "isGameSource": true,
+            "platformType": "PC"
+        }
+    ]
+}

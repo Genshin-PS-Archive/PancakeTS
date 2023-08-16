@@ -1,0 +1,425 @@
+{
+    "towerScheduleId": 31,
+    "towerFloorRecordList": [
+        {
+            "floorId": 1001,
+            "passedLevelMap": {
+                "1": 3,
+                "2": 3,
+                "3": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 1,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 2,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 3,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1002,
+            "passedLevelMap": {
+                "4": 3,
+                "5": 3,
+                "6": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 4,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 5,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 6,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1003,
+            "passedLevelMap": {
+                "7": 3,
+                "8": 3,
+                "9": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 7,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 8,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 9,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1004,
+            "passedLevelMap": {
+                "10": 3,
+                "11": 3,
+                "12": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 10,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 11,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 12,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1005,
+            "passedLevelMap": {
+                "13": 3,
+                "14": 3,
+                "15": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 13,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 14,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 15,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1006,
+            "passedLevelMap": {
+                "16": 3,
+                "17": 3,
+                "18": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 16,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 17,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 18,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1007,
+            "passedLevelMap": {
+                "19": 3,
+                "20": 3,
+                "21": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 19,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 20,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 21,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1008,
+            "passedLevelMap": {
+                "22": 3,
+                "23": 3,
+                "24": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 22,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 23,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 24,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1024,
+            "passedLevelMap": {
+                "70": 3,
+                "71": 3,
+                "72": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 70,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 71,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 72,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1025,
+            "passedLevelMap": {
+                "73": 3,
+                "74": 3,
+                "75": 3
+            },
+            "floorStarRewardProgress": 3,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 73,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 74,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "levelId": 75,
+                    "satisfiedCondList": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "floorId": 1028,
+            "passedLevelMap": {
+                "82": 2,
+                "83": 2,
+                "84": 0
+            },
+            "floorStarRewardProgress": 1,
+            "passedLevelRecordList": [
+                {
+                    "levelId": 82,
+                    "satisfiedCondList": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "levelId": 83,
+                    "satisfiedCondList": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "levelId": 84
+                }
+            ]
+        }
+    ],
+    "curLevelRecord": {
+        "curFloorId": 1007,
+        "curLevelIndex": 2,
+        "towerTeamList": [
+            {
+                "towerTeamId": 1,
+                "avatarGuidList": [
+                    "2664326143951708856"
+                ]
+            },
+            {
+                "towerTeamId": 2,
+                "avatarGuidList": [
+                    "2664326143951708869",
+                    "2664326143951708882",
+                    "2664326143951708895"
+                ]
+            }
+        ]
+    },
+    "nextScheduleChangeTime": 1634374799,
+    "floorOpenTimeMap": {
+        "1024": 1633078800,
+        "1025": 1633078800,
+        "1028": 1633078800,
+        "1029": 1633078800
+    },
+    "monthlyBrief": {
+        "towerScheduleId": 30,
+        "bestFloorIndex": 10,
+        "bestLevelIndex": 3,
+        "totalStarCount": 18
+    },
+    "validTowerRecordNum": 12,
+    "isFinishedEntranceFloor": true,
+    "scheduleStartTime": 1633078800,
+    "lastScheduleMonthlyBrief": {
+        "towerScheduleId": 30,
+        "bestFloorIndex": 10,
+        "bestLevelIndex": 3,
+        "totalStarCount": 18
+    }
+}

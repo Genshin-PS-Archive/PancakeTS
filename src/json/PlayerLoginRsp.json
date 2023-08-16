@@ -1,0 +1,23 @@
+{
+    "isUseAbilityHash": true,
+    "abilityHashCode": -597199551,
+    "clientDataVersion": 4645171,
+    "clientSilenceDataVersion": 4645171,
+    "gameBiz": "hk4e_global",
+    "clientMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"73451c4a5e886e5052e64eda85983b29\", \"fileSize\": 4402}",
+    "clientSilenceDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"d35ee6e3d9c2cd8006c4924b49ecce30\", \"fileSize\": 515}",
+    "resVersionConfig": {
+        "version": 4547778,
+        "md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"011b8962ece8607ce0bd838d4b261af8\", \"fileSize\": 440193}\r\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"62ba6bd7ef61cc46283d4a818264dc98\", \"fileSize\": 231631}\r\n{\"remoteName\": \"release_res_versions_external\", \"md5\": \"7f3cdb855fce25d0bfe8cb682dea5cd1\", \"fileSize\": 440193}\r\n{\"remoteName\": \"release_res_versions_medium\", \"md5\": \"22e0203d8fe341b53693e935e76c0020\", \"fileSize\": 231631}\r\n{\"remoteName\": \"base_revision\", \"md5\": \"cbd0c325e3d247b820cda00d9616471c\", \"fileSize\": 18}",
+        "releaseTotalSize": "0",
+        "versionSuffix": "7237ac14c3",
+        "branch": "2.2_live"
+    },
+    "clientVersionSuffix": "60d2dd6b16",
+    "clientSilenceVersionSuffix": "60d2dd6b16",
+    "scInfo": "zxAB/CgAAAAWKwBKzP3/C9+/a+SHZqc3Dnb5zEW0MF5iy65iQpbd/w==",
+    "isScOpen": true,
+    "registerCps": "mihoyo",
+    "countryCode": "CN",
+    "totalTickTime": 6817.290782884229
+}

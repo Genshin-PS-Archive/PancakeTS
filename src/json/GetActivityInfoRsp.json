@@ -1,0 +1,42 @@
+{
+    "activityInfoList": [
+        {
+            "activityId": 5048,
+            "scheduleId": 5048001,
+            "beginTime": 1634079600,
+            "endTime": 1634720399,
+            "activityType": 1405,
+            "firstDayStartTime": 1634029200
+        },
+        {
+            "activityId": 5002,
+            "scheduleId": 5002020,
+            "beginTime": 1634079600,
+            "endTime": 1635893940,
+            "activityType": 4,
+            "trialAvatarInfo": {
+                "rewardInfoList": [
+                    {
+                        "trialAvatarIndexId": 7,
+                        "passedDungeon": true,
+                        "receivedReward": true,
+                        "rewardId": 480211
+                    },
+                    {
+                        "trialAvatarIndexId": 23,
+                        "rewardId": 480162
+                    },
+                    {
+                        "trialAvatarIndexId": 28,
+                        "rewardId": 480243
+                    },
+                    {
+                        "trialAvatarIndexId": 32,
+                        "rewardId": 480354
+                    }
+                ]
+            },
+            "firstDayStartTime": 1634029200
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "detailData": {
+        "uid": 1337,
+        "nickname": "PancakeTS",
+        "level": 56,
+        "signature": "proud crowned amber haver",
+        "birthday": {
+            "month": 2,
+            "day": 8
+        },
+        "worldLevel": 8,
+        "onlineState": "FRIEND_ONLINE",
+        "isFriend": true,
+        "isMpModeAvailable": true,
+        "nameCardId": 210046,
+        "finishAchievementNum": 374,
+        "towerFloorIndex": 11,
+        "towerLevelIndex": 3,
+        "isShowAvatar": true,
+        "showAvatarInfoList": [
+            {
+                "avatarId": 10000033,
+                "level": 90
+            },
+            {
+                "avatarId": 10000032,
+                "level": 90
+            },
+            {
+                "avatarId": 10000016,
+                "level": 80
+            },
+            {
+                "avatarId": 10000030,
+                "level": 70
+            },
+            {
+                "avatarId": 10000041,
+                "level": 80
+            },
+            {
+                "avatarId": 10000002,
+                "level": 80
+            },
+            {
+                "avatarId": 10000051,
+                "level": 90
+            },
+            {
+                "avatarId": 10000021,
+                "level": 90
+            }
+        ],
+        "showNameCardIdList": [
+            210016,
+            210015,
+            210046,
+            210005,
+            210070,
+            210044,
+            210067,
+            210050,
+            210029
+        ],
+        "profilePicture": {
+            "avatarId": 10000052
+        }
+    }
+}

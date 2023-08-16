@@ -1,0 +1,18 @@
+{
+    "avatarGuid": "2664326143951669236",
+    "equipType": 6,
+    "itemId": 13415,
+    "equipGuid": "2664326143951671046",
+    "weapon": {
+        "entityId": 100663511,
+        "gadgetId": 50013415,
+        "itemId": 13415,
+        "guid": "2664326143951671046",
+        "level": 80,
+        "promoteLevel": 5,
+        "abilityInfo": {},
+        "affixMap": {
+            "113415": 0
+        }
+    }
+}

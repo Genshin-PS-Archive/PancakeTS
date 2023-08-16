@@ -1,0 +1,376 @@
+{
+    "briefInfoList": [
+        {
+            "refreshId": 1,
+            "circleCampId": 101001001,
+            "cityId": 1,
+            "resin": 20,
+            "pos": {
+                "X": 1392.8399658203125,
+                "Y": 270.2309875488281,
+                "Z": -1662.366943359375
+            },
+            "rewardId": 4110,
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 2,
+            "circleCampId": 101002003,
+            "cityId": 1,
+            "resin": 20,
+            "pos": {
+                "X": 1801.7960205078125,
+                "Y": 243.3719940185547,
+                "Z": -717.5659790039062
+            },
+            "rewardId": 4010,
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 3,
+            "circleCampId": 202005001,
+            "cityId": 2,
+            "resin": 20,
+            "pos": {
+                "X": 459.81500244140625,
+                "Y": 328.84600830078125,
+                "Z": 1494.843994140625
+            },
+            "rewardId": 4110,
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 4,
+            "circleCampId": 202004001,
+            "cityId": 2,
+            "resin": 20,
+            "pos": {
+                "X": 1535.574951171875,
+                "Y": 224.67100524902344,
+                "Z": 1220.56494140625
+            },
+            "rewardId": 4010,
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 9,
+            "circleCampId": 101002006,
+            "cityId": 1,
+            "pos": {
+                "X": 2039.60595703125,
+                "Y": 241.63999938964844,
+                "Z": -635.5889892578125
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 9,
+            "circleCampId": 101002007,
+            "cityId": 1,
+            "pos": {
+                "X": 1675.68798828125,
+                "Y": 259.06298828125,
+                "Z": -714.4829711914062
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 9,
+            "circleCampId": 101007007,
+            "cityId": 1,
+            "pos": {
+                "X": 2381.69091796875,
+                "Y": 287.8290100097656,
+                "Z": -328.531005859375
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 10,
+            "circleCampId": 101007009,
+            "cityId": 1,
+            "pos": {
+                "X": 2149.8740234375,
+                "Y": 215.25900268554688,
+                "Z": -585.25
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 10,
+            "circleCampId": 101007011,
+            "cityId": 1,
+            "pos": {
+                "X": 2069.639892578125,
+                "Y": 260.7640075683594,
+                "Z": -342.73699951171875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 10,
+            "circleCampId": 101007012,
+            "cityId": 1,
+            "pos": {
+                "X": 2305.0869140625,
+                "Y": 249.6840057373047,
+                "Z": -430.1969909667969
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 11,
+            "circleCampId": 202005007,
+            "cityId": 2,
+            "pos": {
+                "X": 1200.41796875,
+                "Y": 249.1929931640625,
+                "Z": 1046.4139404296875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 11,
+            "circleCampId": 202005008,
+            "cityId": 2,
+            "pos": {
+                "X": 847.2239990234375,
+                "Y": 340.69500732421875,
+                "Z": 1500.862060546875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 11,
+            "circleCampId": 202005011,
+            "cityId": 2,
+            "pos": {
+                "X": 773.2930297851562,
+                "Y": 323.08099365234375,
+                "Z": 1487.8680419921875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 11,
+            "circleCampId": 202005015,
+            "cityId": 2,
+            "pos": {
+                "X": 829.302001953125,
+                "Y": 276.02398681640625,
+                "Z": 1328.1080322265625
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 11,
+            "circleCampId": 202005016,
+            "cityId": 2,
+            "pos": {
+                "X": 1115.197998046875,
+                "Y": 234.12100219726562,
+                "Z": 1642.2860107421875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 12,
+            "circleCampId": 202005006,
+            "cityId": 2,
+            "pos": {
+                "X": 939.5609741210938,
+                "Y": 365.8330078125,
+                "Z": 1386.1390380859375
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 12,
+            "circleCampId": 202005009,
+            "cityId": 2,
+            "pos": {
+                "X": 877.1740112304688,
+                "Y": 355.6390075683594,
+                "Z": 1490.5699462890625
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 12,
+            "circleCampId": 202005010,
+            "cityId": 2,
+            "pos": {
+                "X": 826.3049926757812,
+                "Y": 320.5740051269531,
+                "Z": 1572.4990234375
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 12,
+            "circleCampId": 202005013,
+            "cityId": 2,
+            "pos": {
+                "X": 840.135986328125,
+                "Y": 255.52200317382812,
+                "Z": 1261.8360595703125
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 12,
+            "circleCampId": 202005014,
+            "cityId": 2,
+            "pos": {
+                "X": 922.1820068359375,
+                "Y": 384.5379943847656,
+                "Z": 1365.864013671875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 20,
+            "circleCampId": 303003001,
+            "cityId": 3,
+            "resin": 20,
+            "pos": {
+                "X": -4066.656005859375,
+                "Y": 271.77301025390625,
+                "Z": -2268.298095703125
+            },
+            "rewardId": 4110,
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 21,
+            "circleCampId": 303004001,
+            "cityId": 3,
+            "resin": 20,
+            "pos": {
+                "X": -3962.074951171875,
+                "Y": 199.98199462890625,
+                "Z": -1119.9229736328125
+            },
+            "rewardId": 4010,
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 24,
+            "circleCampId": 303003011,
+            "cityId": 3,
+            "pos": {
+                "X": -3553.3349609375,
+                "Y": 199.41099548339844,
+                "Z": -2752.466064453125
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 24,
+            "circleCampId": 303003012,
+            "cityId": 3,
+            "pos": {
+                "X": -3664.137939453125,
+                "Y": 236.0540008544922,
+                "Z": -2392.0869140625
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 24,
+            "circleCampId": 303003013,
+            "cityId": 3,
+            "pos": {
+                "X": -3765.123046875,
+                "Y": 232.24400329589844,
+                "Z": -2119.285888671875
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 24,
+            "circleCampId": 303003015,
+            "cityId": 3,
+            "pos": {
+                "X": -4046.389892578125,
+                "Y": 263.0429992675781,
+                "Z": -2215.81298828125
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 25,
+            "circleCampId": 303003014,
+            "cityId": 3,
+            "pos": {
+                "X": -4021.85009765625,
+                "Y": 209.24400329589844,
+                "Z": -2496.616943359375
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 25,
+            "circleCampId": 303003016,
+            "cityId": 3,
+            "pos": {
+                "X": -3768.304931640625,
+                "Y": 236.25599670410156,
+                "Z": -2276.18505859375
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 25,
+            "circleCampId": 303004012,
+            "cityId": 3,
+            "pos": {
+                "X": -3811.80810546875,
+                "Y": 167.41600036621094,
+                "Z": -612.7349853515625
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        },
+        {
+            "refreshId": 25,
+            "circleCampId": 303004017,
+            "cityId": 3,
+            "pos": {
+                "X": -3913.074951171875,
+                "Y": 149.63800048828125,
+                "Z": -1045.428955078125
+            },
+            "monsterLevel": 85,
+            "sceneId": 3
+        }
+    ]
+}

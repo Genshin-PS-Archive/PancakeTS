@@ -1,0 +1,278 @@
+import { Packet } from '../util/packet';
+// @ts-ignore
+import kcp from '../node-kcp/kcp';
+import { KcpServer } from '../server';
+import Player from '../util/player';
+
+async function execute(packet: Packet, kcpobj: kcp, kcpServer: KcpServer) {
+  const plr = Player;
+  // SceneEntityAppearNotify
+  console.log(plr.motionInfo);
+  const SceneEntityAppearNotify = {
+    entityList: [
+      {
+        entityType: 'PROT_ENTITY_AVATAR',
+        entityId: plr.entityId,
+        motionInfo: {
+          pos: plr.motionInfo.pos,
+          rot: plr.motionInfo.rot,
+          speed: {},
+        },
+        propList: [
+          {
+            type: 4001,
+            propValue: {
+              type: 4001,
+              ival: '70',
+              val: '70',
+            },
+          },
+        ],
+        fightPropList: [
+          {
+            propType: 1,
+            propValue: 11243.2080078125,
+          },
+          {
+            propType: 2,
+            propValue: 5945.1396484375,
+          },
+          {
+            propType: 3,
+            propValue: 2.0653371810913086,
+          },
+          {
+            propType: 4,
+            propValue: 506.591064453125,
+          },
+          {
+            propType: 5,
+            propValue: 349.1300048828125,
+          },
+          {
+            propType: 6,
+            propValue: 0.2856000065803528,
+          },
+          {
+            propType: 7,
+            propValue: 564.4993896484375,
+          },
+          {
+            propType: 8,
+            propValue: 79.6300048828125,
+          },
+          {
+            propType: 9,
+            propValue: 0.10490000247955322,
+          },
+          {
+            propType: 20,
+            propValue: 0.2289000004529953,
+          },
+          {
+            propType: 21,
+          },
+          {
+            propType: 22,
+            propValue: 0.9429000020027161,
+          },
+          {
+            propType: 23,
+            propValue: 1.152899980545044,
+          },
+          {
+            propType: 26,
+          },
+          {
+            propType: 27,
+          },
+          {
+            propType: 28,
+          },
+          {
+            propType: 29,
+          },
+          {
+            propType: 30,
+          },
+          {
+            propType: 40,
+          },
+          {
+            propType: 41,
+          },
+          {
+            propType: 42,
+          },
+          {
+            propType: 43,
+          },
+          {
+            propType: 44,
+          },
+          {
+            propType: 45,
+            propValue: 0.14399999380111694,
+          },
+          {
+            propType: 46,
+          },
+          {
+            propType: 50,
+          },
+          {
+            propType: 51,
+          },
+          {
+            propType: 52,
+          },
+          {
+            propType: 53,
+          },
+          {
+            propType: 54,
+          },
+          {
+            propType: 55,
+          },
+          {
+            propType: 56,
+          },
+          {
+            propType: 76,
+            propValue: 40,
+          },
+          {
+            propType: 2000,
+            propValue: 40409.36328125,
+          },
+          {
+            propType: 2001,
+            propValue: 1000.4034423828125,
+          },
+          {
+            propType: 2002,
+            propValue: 703.3453979492188,
+          },
+          {
+            propType: 2003,
+          },
+          {
+            propType: 1010,
+            propValue: 40409.36328125,
+          },
+        ],
+        lifeState: 1,
+        animatorParaList: [
+          {},
+        ],
+        avatar: {
+          uid: plr.uid,
+          avatarId: 10000030,
+          guid: '2664326143951479019',
+          peerId: 1,
+          equipIdList: [
+            88543,
+            91523,
+            91553,
+            91513,
+            91433,
+            13303,
+          ],
+          skillDepotId: 3001,
+          weapon: {
+            entityId: 100663513,
+            gadgetId: 50013303,
+            itemId: 13303,
+            guid: '2664326143951285785',
+            level: 80,
+            promoteLevel: 5,
+            abilityInfo: {},
+            affixMap: {
+              113303: 4,
+            },
+          },
+          reliquaryList: [
+            {
+              itemId: 88543,
+              guid: '2664326143951336725',
+              level: 21,
+            },
+            {
+              itemId: 91523,
+              guid: '2664326143951481191',
+              level: 21,
+            },
+            {
+              itemId: 91553,
+              guid: '2664326143951577623',
+              level: 21,
+            },
+            {
+              itemId: 91513,
+              guid: '2664326143951545289',
+              level: 21,
+            },
+            {
+              itemId: 91433,
+              guid: '2664326143951599549',
+              level: 17,
+            },
+          ],
+          inherentProudSkillList: [
+            302101,
+            302201,
+            302301,
+          ],
+          skillLevelMap: {
+            10301: 2,
+            10302: 6,
+            10303: 6,
+          },
+          proudSkillExtraLevelMap: {
+            3031: 1,
+          },
+          teamResonanceList: [
+            10801,
+          ],
+          wearingFlycloakId: 140005,
+          bornTime: 1620699348,
+          excelInfo: {
+            prefabPathHash: '613941571388',
+            prefabPathRemoteHash: '1009270878742',
+            controllerPathHash: '651151760882',
+            controllerPathRemoteHash: '1019573886117',
+            combatConfigHash: '633834988714',
+          },
+        },
+        entityClientData: {},
+        entityAuthorityInfo: {
+          abilityInfo: {},
+          rendererChangedInfo: {},
+          aiInfo: {
+            isAiOpen: true,
+            bornPos: {},
+          },
+          bornPos: {},
+        },
+      },
+    ],
+    appearType: 'VISION_BORN',
+  };
+
+
+  kcpServer.sendPacket(
+      await kcpServer.convToPacket('SceneEntityAppearNotify', kcpobj, packet, SceneEntityAppearNotify),
+  );
+
+  // EnterSceneDoneRsp
+  const EnterSceneDoneRsp = {
+    enterSceneToken: 8427,
+  };
+
+  kcpServer.sendPacket(
+      await kcpServer.convToPacket('EnterSceneDoneRsp', kcpobj, packet, EnterSceneDoneRsp),
+  );
+}
+
+export default { execute };

@@ -1,0 +1,27 @@
+{
+    "taskList": [
+        {
+            "dailyTaskId": 10101,
+            "rewardId": 2112,
+            "progress": 8,
+            "finishProgress": 8,
+            "isFinished": true
+        },
+        {
+            "dailyTaskId": 10401,
+            "rewardId": 2112,
+            "finishProgress": 8
+        },
+        {
+            "dailyTaskId": 11100,
+            "rewardId": 2112,
+            "finishProgress": 1
+        },
+        {
+            "dailyTaskId": 24000,
+            "rewardId": 2212,
+            "finishProgress": 1
+        }
+    ],
+    "filterCityId": 1
+}

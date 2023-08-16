@@ -1,0 +1,48 @@
+{
+    "curAvatarEntityId": 16777432,
+    "avatarEnterInfo": [
+        {
+            "avatarGuid": "2664326143951372989",
+            "avatarEntityId": 16777426,
+            "avatarAbilityInfo": {},
+            "weaponGuid": "2664326143951246184",
+            "weaponEntityId": 100663507,
+            "weaponAbilityInfo": {}
+        },
+        {
+            "avatarGuid": "2664326143951252776",
+            "avatarEntityId": 16777428,
+            "avatarAbilityInfo": {},
+            "weaponGuid": "2664326143951244698",
+            "weaponEntityId": 100663509,
+            "weaponAbilityInfo": {}
+        },
+        {
+            "avatarGuid": "2664326143951669236",
+            "avatarEntityId": 16777430,
+            "avatarAbilityInfo": {},
+            "weaponGuid": "2664326143951671046",
+            "weaponEntityId": 100663511,
+            "weaponAbilityInfo": {}
+        },
+        {
+            "avatarGuid": "2664326143951479019",
+            "avatarEntityId": 16777432,
+            "avatarAbilityInfo": {},
+            "weaponGuid": "2664326143951285785",
+            "weaponEntityId": 100663513,
+            "weaponAbilityInfo": {}
+        }
+    ],
+    "teamEnterInfo": {
+        "teamEntityId": 150995153,
+        "teamAbilityInfo": {},
+        "abilityControlBlock": {}
+    },
+    "mpLevelEntityInfo": {
+        "entityId": 184549594,
+        "authorityPeerId": 1,
+        "abilityInfo": {}
+    },
+    "enterSceneToken": 8427
+}

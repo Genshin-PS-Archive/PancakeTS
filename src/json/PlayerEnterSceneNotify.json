@@ -1,0 +1,24 @@
+{
+    "sceneId": 3,
+    "pos": {
+        "X": 1705.0152587890625,
+        "Y": 210.002685546875,
+        "Z": -2646.8212890625
+    },
+    "sceneBeginTime": "1634238866027",
+    "type": "ENTER_SELF",
+    "targetUid": 1337,
+    "worldLevel": 8,
+    "enterSceneToken": 8427,
+    "isFirstLoginEnterScene": false,
+    "sceneTagIdList": [
+        111,
+        112,
+        116,
+        118,
+        125
+    ],
+    "enterReason": 1,
+    "worldType": 1,
+    "sceneTransaction": "3-1337-1634238866-5602"
+}

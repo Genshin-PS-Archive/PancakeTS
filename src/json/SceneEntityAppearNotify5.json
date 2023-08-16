@@ -1,0 +1,176 @@
+{
+    "entityList": [
+        {
+            "entityType": 2,
+            "entityId": 33556668,
+            "motionInfo": {
+                "pos": {
+                    "X": 2632.7509765625,
+                    "Y": 250.11199951171875,
+                    "Z": -1297.98095703125
+                },
+                "rot": {
+                    "Y": 250.906005859375
+                },
+                "speed": {}
+            },
+            "propList": [
+                {
+                    "type": 4001,
+                    "propValue": {
+                        "type": 4001,
+                        "ival": {
+                            "low": 18,
+                            "high": 0,
+                            "unsigned": false
+                        },
+                        "val": {
+                            "low": 18,
+                            "high": 0,
+                            "unsigned": false
+                        }
+                    }
+                }
+            ],
+            "fightPropList": [
+                {
+                    "propType": 1,
+                    "propValue": 679.9279174804688
+                },
+                {
+                    "propType": 4,
+                    "propValue": 254.66690063476562
+                },
+                {
+                    "propType": 7,
+                    "propValue": 590
+                },
+                {
+                    "propType": 20
+                },
+                {
+                    "propType": 21
+                },
+                {
+                    "propType": 22
+                },
+                {
+                    "propType": 23
+                },
+                {
+                    "propType": 28
+                },
+                {
+                    "propType": 29,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 30
+                },
+                {
+                    "propType": 40
+                },
+                {
+                    "propType": 41
+                },
+                {
+                    "propType": 42
+                },
+                {
+                    "propType": 43
+                },
+                {
+                    "propType": 44
+                },
+                {
+                    "propType": 45
+                },
+                {
+                    "propType": 46
+                },
+                {
+                    "propType": 50,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 51,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 52,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 53,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 54,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 55,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 56,
+                    "propValue": 0.10000000149011612
+                },
+                {
+                    "propType": 2000,
+                    "propValue": 679.9279174804688
+                },
+                {
+                    "propType": 2001,
+                    "propValue": 254.66690063476562
+                },
+                {
+                    "propType": 2002,
+                    "propValue": 590
+                },
+                {
+                    "propType": 2003
+                },
+                {
+                    "propType": 1010,
+                    "propValue": 679.9279174804688
+                }
+            ],
+            "lifeState": 1,
+            "animatorParaList": [
+                {}
+            ],
+            "monster": {
+                "monsterId": 21010101,
+                "groupId": 133003342,
+                "configId": 1420,
+                "authorityPeerId": 1,
+                "poseId": 9002,
+                "bornType": 1,
+                "blockId": 3003,
+                "titleId": 3001,
+                "specialNameId": 40,
+                "initPoseId": 9002
+            },
+            "entityClientData": {},
+            "entityAuthorityInfo": {
+                "abilityInfo": {},
+                "rendererChangedInfo": {},
+                "aiInfo": {
+                    "isAiOpen": false,
+                    "bornPos": {
+                        "X": 2632.7509765625,
+                        "Y": 250.11199951171875,
+                        "Z": -1297.98095703125
+                    }
+                },
+                "bornPos": {
+                    "X": 2632.7509765625,
+                    "Y": 250.11199951171875,
+                    "Z": -1297.98095703125
+                }
+            }
+        }
+    ],
+    "appearType": 12
+}
